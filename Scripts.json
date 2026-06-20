@@ -5,7 +5,7 @@
       "title": "Infinite Yield",
       "desc": "admin command suite with many different features",
       "cat": "misc",
-      "url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"
+      "url": "https://raw.githubusercontent.com/m1kxCodes/SkidHub/refs/heads/main/scripts/InfiniteYield"
     },
     {
       "title": "ESP",
@@ -36,6 +36,12 @@
       "desc": "instantly activates proxmity prompts",
       "cat": "utility",
       "url": "https://raw.githubusercontent.com/m1kxCodes/SkidHub/refs/heads/main/scripts/InstantProximityPrompt.lua"
+    },
+    {
+      "title": "Cool_seagull's Aimbot",
+      "desc": "Advanced aimbot with ESP and a nice UI",
+      "cat": "utility",
+      "url": "https://raw.githubusercontent.com/m1kxCodes/SkidHub/refs/heads/main/scripts/coolseagullsaimbot.lua"
     }
   ]
 }

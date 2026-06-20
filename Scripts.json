@@ -32,22 +32,10 @@
       "source": "-- Infinite Jump\nprint('Infinite Jump demo - add your source in Scripts.json')"
     },
     {
-      "title": "Noclip",
-      "desc": "phase through matter",
-      "cat": "movement",
-      "source": "-- Noclip\nprint('Noclip demo - add your source in Scripts.json')"
-    },
-    {
       "title": "Fullbright",
       "desc": "illuminate the void",
       "cat": "visual",
-      "source": "-- Fullbright\nprint('Fullbright demo - add your source in Scripts.json')"
-    },
-    {
-      "title": "Aimbot Lite",
-      "desc": "lock-on assist",
-      "cat": "combat",
-      "source": "-- Aimbot Lite\nprint('Aimbot demo - add your source in Scripts.json')"
+      "url": "https://raw.githubusercontent.com/m1kxCodes/SkidHub/refs/heads/main/scripts/fullbright.lua"
     },
     {
       "title": "Instant Proximity Prompt",

@@ -20,9 +20,9 @@
       "source": "https://raw.githubusercontent.com/m1kxCodes/SkidHub/refs/heads/main/scripts/fly.lua"
     },
     {
-      "title": "Speed Warp",
-      "desc": "adjustable velocity",
-      "cat": "movement",
+      "title": "Remote Spy",
+      "desc": "see and copy remotes",
+      "cat": "misc",
       "source": "-- Speed Warp\nprint('Speed demo - add your source in Scripts.json')"
     },
     {
